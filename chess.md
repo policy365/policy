@@ -16,6 +16,17 @@ Information Collection and Use
 - For online multiplayer features, the game may use an internet connection to enable real-time gameplay. No personal information is required to play.
 
 Third-Party Services
+
+Alert 
+
+# We implement firebase and Google cloud service to user control system,
+user can create account and delete their account in this app.
+we have put this system, if user choose delete account it automatically delete their account.
+
+ Data security, 
+
+ We don't Share user data third party or any company, all data is secure in Google database.
+ 
 We use the following third-party services for advertising:
 - Google AdMob – https://policies.google.com/technologies/ads
 - AppLovin – https://www.applovin.com/privacy/
@@ -33,4 +44,6 @@ We may update our Privacy Policy from time to time. Any updates will be posted o
 
 Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
-📧 [Your Email Address]
+📧 if you need to help or delete your account please mail us at this email 
+
+mstayshaakter76@gmail.com
