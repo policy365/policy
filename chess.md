@@ -17,7 +17,18 @@ Information Collection and Use
 
 Third-Party Services
 
-Alert 
+Alert #
+This app will ask a camera and file upload permission
+
+for custom logo set, and camera for from logo camera, file manager for upload from device file or database in your mobile.
+microphone permission for audio voice chat when playing online multiplayer each other.
+if you need delete , you can choose in your account profile option under ist options, or contact with us to delete your all dala,
+
+
+clearing, we only store which you upload from camera or file upload, 
+we don't see what you uploaded, it's just a app features for user .
+
+
 
 # We implement firebase and Google cloud service to user control system,
 user can create account and delete their account in this app.
