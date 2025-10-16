@@ -3,7 +3,7 @@ Privacy Policy for Chess Master
 Last Updated: [14-10-2025]
 
 Welcome to Chess Master.
-Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile application Chess Master (the “App”).
+Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile application Chess Master.
 
 
 ---
