@@ -1,35 +1,99 @@
-Privacy Policy  
-Water Sort Game  
+Privacy Policy for Water Sort Puzzle
 
-Effective Date: 26 September 2025  
+Last updated: October 2025
+Welcome to Water Sort Puzzle!
+Your privacy is very important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
 
-We respect your privacy. This Privacy Policy explains how Water Sort Game handles user information, especially regarding ads displayed in the game.  
 
-Information Collection and Use  
-- The game does not collect personally identifiable information such as your name, email, or phone number.  
-- The game displays ads through Google AdMob and AppLovin.  
-- These third-party advertising providers may automatically collect certain information from your device, such as:  
-  - Device identifiers  
-  - App usage data  
-  - Approximate location  
-  - Cookies or similar tracking technologies  
+---
 
-Third-Party Services  
-We use the following third-party services for advertising:  
-- Google AdMob – https://policies.google.com/technologies/ads  
-- AppLovin – https://www.applovin.com/privacy/  
+🔹 1. Information We Collect
 
-Please review their privacy policies to learn how they handle your data.  
+We value your privacy and try to collect minimal information.
+Our app may collect the following types of data:
 
-Children’s Privacy  
-This game is intended for general audiences. We do not knowingly collect personal information from children under the age of 13.  
+Device Information: Device type, operating system, and language (for app performance improvement).
 
-Security  
-We take reasonable measures to protect your information. However, no method of transmission over the Internet or method of electronic storage is 100% secure.  
+Advertising Data: Ad networks like AdMob and AppLovin MAX may collect anonymous identifiers to show personalized or non-personalized ads.
 
-Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Any updates will be posted on this page with a new “Effective Date.”  
+Firebase Data: We use Firebase Analytics, Firebase Authentication, and Firebase Crashlytics to analyze app usage and improve performance.
 
-Contact Us  
-If you have any questions or concerns about this Privacy Policy, please contact us at:  
-📧 [Your Email Address]
+In-App Purchases: If you buy a subscription or premium feature, payment is processed securely through Google Play Billing or Apple In-App Purchase systems. We do not store or access your payment information.
+
+
+
+---
+
+🔹 2. How We Use Information
+
+We use collected information to:
+
+Improve app performance and stability.
+
+Display relevant ads (through AdMob and AppLovin MAX).
+
+Understand user engagement via Firebase Analytics.
+
+Provide support for subscriptions or in-app purchases.
+
+
+
+---
+
+🔹 3. Third-Party Services
+
+Our app uses trusted third-party SDKs and services:
+
+Google AdMob – for advertisements.
+
+AppLovin MAX – for advertisements.
+
+Firebase (by Google) – for analytics, authentication, and crash reports.
+
+Google Play Billing / Apple In-App Purchase – for handling purchases securely.
+
+
+Each of these services has its own privacy policies. You can review them below:
+
+Google Privacy Policy
+
+AppLovin Privacy Policy
+
+Firebase Privacy Policy
+
+
+
+---
+
+🔹 4. Data Security
+
+We do not share, sell, or trade any personal data with third parties.
+All communications and data are securely handled in compliance with Google Play and App Store privacy requirements.
+
+
+---
+
+🔹 5. Children’s Privacy
+
+Our app is suitable for general audiences and does not knowingly collect data from children under 13 years old.
+
+
+---
+
+🔹 6. Your Consent
+
+By using Water Sort Puzzle, you agree to the terms outlined in this Privacy Policy.
+
+
+---
+
+🔹 7. Changes to This Policy
+
+We may update this Privacy Policy periodically. Any changes will be reflected here with an updated “Last updated” date.
+
+
+---
+
+🔹 8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us: mstayshaakter76@gmail.com
