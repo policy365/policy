@@ -1,60 +1,148 @@
-Privacy Policy
-Chess Game (Online & Offline Multiplayer)
+Privacy Policy for Chess Master
 
-Effective Date: 26 September 2025
+Last Updated: [14-10-2025]
 
-We respect your privacy. This Privacy Policy explains how Chess Game (Online & Offline Multiplayer) handles user information, including ads displayed in the game and online gameplay features.
-
-Information Collection and Use
-- The game does not collect personally identifiable information such as your name, email, or phone number.
-- The game may display ads through Google AdMob and AppLovin.
-- These third-party advertising providers may automatically collect certain information from your device, such as:
-  - Device identifiers
-  - App usage data
-  - Approximate location
-  - Cookies or similar tracking technologies
-- For online multiplayer features, the game may use an internet connection to enable real-time gameplay. No personal information is required to play.
-
-Third-Party Services
-
-Alert #
-This app will ask a camera and file upload permission
-
-for custom logo set, and camera for from logo camera, file manager for upload from device file or database in your mobile.
-microphone permission for audio voice chat when playing online multiplayer each other.
-if you need delete , you can choose in your account profile option under ist options, or contact with us to delete your all dala,
+Welcome to Chess Master (“we”, “our”, or “us”).
+Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile application Chess Master (the “App”).
 
 
-clearing, we only store which you upload from camera or file upload, 
-we don't see what you uploaded, it's just a app features for user .
+---
+
+1. Information We Collect
+
+We may collect the following types of information:
+
+a) Personal Information
+
+Name, email address, and profile details (when you create or sign in to your account using Google or Firebase authentication).
+
+Purchase or subscription data related to in-app purchases.
+
+
+b) Non-Personal Information
+
+Device information (model, OS version, language, app version).
+
+Log data such as IP address, country, and app usage statistics.
+
+Advertising identifiers for analytics and ad personalization.
 
 
 
-# We implement firebase and Google cloud service to user control system,
-user can create account and delete their account in this app.
-we have put this system, if user choose delete account it automatically delete their account.
+---
 
- Data security, 
+2. How We Use the Information
 
- We don't Share user data third party or any company, all data is secure in Google database.
- 
-We use the following third-party services for advertising:
-- Google AdMob – https://policies.google.com/technologies/ads
-- AppLovin – https://www.applovin.com/privacy/
+We use your data for the following purposes:
 
-Please review their privacy policies to learn how they handle your data.
+To provide and improve gameplay and app functionality.
 
-Children’s Privacy
-This game is intended for general audiences. We do not knowingly collect personal information from children under the age of 13.
+To manage user accounts through Firebase and Google Cloud.
 
-Security
-We take reasonable measures to protect your information. However, no method of transmission over the Internet or method of electronic storage is 100% secure.
+To process in-app purchases and subscriptions securely.
 
-Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Any updates will be posted on this page with a new “Effective Date.”
+To show personalized and non-personalized ads via Google AdMob and AppLovin MAX.
 
-Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-📧 if you need to help or delete your account please mail us at this email 
+To analyze user behavior, fix bugs, and enhance user experience.
 
-mstayshaakter76@gmail.com
+To communicate important updates, offers, and feature announcements.
+
+
+
+---
+
+3. Advertising Partners
+
+We use third-party ad services to show ads inside the app:
+
+Google AdMob
+
+AppLovin MAX
+
+
+These services may use cookies or unique device identifiers to deliver relevant ads and measure performance.
+You can learn more about their privacy practices here:
+
+AdMob: https://policies.google.com/privacy
+
+AppLovin: https://www.applovin.com/privacy/
+
+
+
+---
+
+4. Firebase & Google Cloud
+
+We use Firebase and Google Cloud to:
+
+Store user account data securely.
+
+Manage authentication and user control.
+
+Monitor crashes, analytics, and app performance.
+
+
+Google’s privacy policy applies to these services:
+https://policies.google.com/privacy
+
+
+---
+
+5. In-App Purchases & Subscriptions
+
+All in-app purchases and subscriptions are processed through Google Play Billing and Apple In-App Purchase system.
+We do not store or have access to your credit/debit card details.
+
+
+---
+
+6. Data Retention
+
+We retain your data only as long as necessary to provide the app’s services.
+If you delete your account or uninstall the app, related data will be removed from our servers within a reasonable time.
+
+
+---
+
+7. Children’s Privacy
+
+Our app is intended for users aged 13 and above.
+We do not knowingly collect personal information from children under 13.
+If you believe a child has provided personal data, please contact us for removal.
+
+
+---
+
+8. Data Security
+
+We use Firebase Authentication and Google Cloud encryption to protect your personal information.
+However, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute protection.
+
+
+---
+
+9. Your Rights
+
+You have the right to:
+
+Access, update, or delete your personal data.
+
+Opt-out of personalized ads through your device settings.
+
+Cancel your subscriptions anytime through Google Play or App Store account settings.
+
+
+
+---
+
+10. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+When we do, we will revise the “Last Updated” date at the top of this page.
+
+
+---
+
+11. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at: mstayshaakter76@gmail.com
